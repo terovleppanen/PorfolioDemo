@@ -2,12 +2,15 @@ body {
   font-family: "Cormorant", serif;
 }
 
+/* Header navigation*/
+
 h1 {
   display: inline-block;
   font-weight: 300;
   margin: 0 32px 0 0;
 }
 
+/* Text links  */
 .links {
   display: inline-block;
 }
@@ -35,6 +38,7 @@ a.active {
   border-bottom: 1px solid black;
 }
 
+/* Gallery  */
 .gallery {
   padding: 16px;
 }
@@ -62,6 +66,7 @@ a.active {
   font-weight: 300;
 }
 
+/* About */
 .about {
   width: 40%;
   min-width: 500px;
